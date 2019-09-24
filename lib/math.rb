@@ -36,6 +36,6 @@ end
 
 def square_root(num)
   
-  
+  exponent = num.square_root
 
 end
